@@ -6,14 +6,12 @@ namespace EstateBasic
     {
 
         private EstateForSell[] _estate;
-        int position = -1;
+        private int position = -1;
 
         public EstateEnum(EstateForSell[] estate)
         {
             _estate = estate;
         }
-
-
 
         object IEnumerator.Current
         {
@@ -38,7 +36,6 @@ namespace EstateBasic
                 }
             }
         }
-
 
         public bool MoveNext()
         {

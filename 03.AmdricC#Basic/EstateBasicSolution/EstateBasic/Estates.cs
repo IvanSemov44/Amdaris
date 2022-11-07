@@ -9,12 +9,7 @@ namespace EstateBasic
 
         public Estates(EstateForSell[] estateForSell)
         {
-            _estatesForSell = new EstateForSell[estateForSell.Length];
-
-            for (int i = 0; i < estateForSell.Length; i++)
-            {
-                _estatesForSell[i] = estateForSell[i];
-            }
+            _estatesForSell = estateForSell;
         }
 
         IEnumerator IEnumerable.GetEnumerator()

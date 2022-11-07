@@ -14,6 +14,7 @@ namespace EstateBasic
         public string? Owner { get; set; }
 
         public string? Location { get; set; }
+
         public decimal Price { set { _price = value; } }
 
         

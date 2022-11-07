@@ -11,7 +11,6 @@ namespace EstateBasic
         private decimal _squereMeter;
         private decimal _totalPrice;
 
-
         public decimal TotalPrice { get { return _totalPrice; } }
         public decimal SquareMeter { set { _squereMeter = value; } }
 
