@@ -1,0 +1,15 @@
+C:\Users\ivans\Desktop\Amdaris\Amdaris\03.AmdricC#Basic\EstateBasicSolution\EstateBasic\bin\Debug\net6.0\EstateBasic.exe
+C:\Users\ivans\Desktop\Amdaris\Amdaris\03.AmdricC#Basic\EstateBasicSolution\EstateBasic\bin\Debug\net6.0\EstateBasic.deps.json
+C:\Users\ivans\Desktop\Amdaris\Amdaris\03.AmdricC#Basic\EstateBasicSolution\EstateBasic\bin\Debug\net6.0\EstateBasic.runtimeconfig.json
+C:\Users\ivans\Desktop\Amdaris\Amdaris\03.AmdricC#Basic\EstateBasicSolution\EstateBasic\bin\Debug\net6.0\EstateBasic.dll
+C:\Users\ivans\Desktop\Amdaris\Amdaris\03.AmdricC#Basic\EstateBasicSolution\EstateBasic\bin\Debug\net6.0\EstateBasic.pdb
+C:\Users\ivans\Desktop\Amdaris\Amdaris\03.AmdricC#Basic\EstateBasicSolution\EstateBasic\obj\Debug\net6.0\EstateBasic.csproj.AssemblyReference.cache
+C:\Users\ivans\Desktop\Amdaris\Amdaris\03.AmdricC#Basic\EstateBasicSolution\EstateBasic\obj\Debug\net6.0\EstateBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivans\Desktop\Amdaris\Amdaris\03.AmdricC#Basic\EstateBasicSolution\EstateBasic\obj\Debug\net6.0\EstateBasic.AssemblyInfoInputs.cache
+C:\Users\ivans\Desktop\Amdaris\Amdaris\03.AmdricC#Basic\EstateBasicSolution\EstateBasic\obj\Debug\net6.0\EstateBasic.AssemblyInfo.cs
+C:\Users\ivans\Desktop\Amdaris\Amdaris\03.AmdricC#Basic\EstateBasicSolution\EstateBasic\obj\Debug\net6.0\EstateBasic.csproj.CoreCompileInputs.cache
+C:\Users\ivans\Desktop\Amdaris\Amdaris\03.AmdricC#Basic\EstateBasicSolution\EstateBasic\obj\Debug\net6.0\EstateBasic.dll
+C:\Users\ivans\Desktop\Amdaris\Amdaris\03.AmdricC#Basic\EstateBasicSolution\EstateBasic\obj\Debug\net6.0\refint\EstateBasic.dll
+C:\Users\ivans\Desktop\Amdaris\Amdaris\03.AmdricC#Basic\EstateBasicSolution\EstateBasic\obj\Debug\net6.0\EstateBasic.pdb
+C:\Users\ivans\Desktop\Amdaris\Amdaris\03.AmdricC#Basic\EstateBasicSolution\EstateBasic\obj\Debug\net6.0\EstateBasic.genruntimeconfig.cache
+C:\Users\ivans\Desktop\Amdaris\Amdaris\03.AmdricC#Basic\EstateBasicSolution\EstateBasic\obj\Debug\net6.0\ref\EstateBasic.dll

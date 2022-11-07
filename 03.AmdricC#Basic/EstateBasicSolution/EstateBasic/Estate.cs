@@ -7,9 +7,15 @@ using System.Threading.Tasks;
 
 namespace EstateBasic
 {
-    public class Estate : IEstate
+    public abstract class Estate : IEstate
     {
+        protected decimal _price;
+
+        public string? Owner { get; set; }
+
         public string? Location { get; set; }
-        public int Price { get; set; }
+        public decimal Price { set { _price = value; } }
+
+        
     }
 }

@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace EstateBasic
 {
-    public class EstateForLetting
+    public abstract class EstateForLetting : Estate
     {
-
+        public abstract void CreatePrice(decimal price);
     }
 }
