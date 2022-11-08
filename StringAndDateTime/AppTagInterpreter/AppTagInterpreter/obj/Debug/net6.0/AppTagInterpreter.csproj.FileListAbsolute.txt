@@ -1,0 +1,15 @@
+C:\Users\ivans\Desktop\Amdaris\Amdaris\StringAndDateTime\AppTagInterpreter\AppTagInterpreter\bin\Debug\net6.0\AppTagInterpreter.exe
+C:\Users\ivans\Desktop\Amdaris\Amdaris\StringAndDateTime\AppTagInterpreter\AppTagInterpreter\bin\Debug\net6.0\AppTagInterpreter.deps.json
+C:\Users\ivans\Desktop\Amdaris\Amdaris\StringAndDateTime\AppTagInterpreter\AppTagInterpreter\bin\Debug\net6.0\AppTagInterpreter.runtimeconfig.json
+C:\Users\ivans\Desktop\Amdaris\Amdaris\StringAndDateTime\AppTagInterpreter\AppTagInterpreter\bin\Debug\net6.0\AppTagInterpreter.dll
+C:\Users\ivans\Desktop\Amdaris\Amdaris\StringAndDateTime\AppTagInterpreter\AppTagInterpreter\bin\Debug\net6.0\AppTagInterpreter.pdb
+C:\Users\ivans\Desktop\Amdaris\Amdaris\StringAndDateTime\AppTagInterpreter\AppTagInterpreter\obj\Debug\net6.0\AppTagInterpreter.csproj.AssemblyReference.cache
+C:\Users\ivans\Desktop\Amdaris\Amdaris\StringAndDateTime\AppTagInterpreter\AppTagInterpreter\obj\Debug\net6.0\AppTagInterpreter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivans\Desktop\Amdaris\Amdaris\StringAndDateTime\AppTagInterpreter\AppTagInterpreter\obj\Debug\net6.0\AppTagInterpreter.AssemblyInfoInputs.cache
+C:\Users\ivans\Desktop\Amdaris\Amdaris\StringAndDateTime\AppTagInterpreter\AppTagInterpreter\obj\Debug\net6.0\AppTagInterpreter.AssemblyInfo.cs
+C:\Users\ivans\Desktop\Amdaris\Amdaris\StringAndDateTime\AppTagInterpreter\AppTagInterpreter\obj\Debug\net6.0\AppTagInterpreter.csproj.CoreCompileInputs.cache
+C:\Users\ivans\Desktop\Amdaris\Amdaris\StringAndDateTime\AppTagInterpreter\AppTagInterpreter\obj\Debug\net6.0\AppTagInterpreter.dll
+C:\Users\ivans\Desktop\Amdaris\Amdaris\StringAndDateTime\AppTagInterpreter\AppTagInterpreter\obj\Debug\net6.0\refint\AppTagInterpreter.dll
+C:\Users\ivans\Desktop\Amdaris\Amdaris\StringAndDateTime\AppTagInterpreter\AppTagInterpreter\obj\Debug\net6.0\AppTagInterpreter.pdb
+C:\Users\ivans\Desktop\Amdaris\Amdaris\StringAndDateTime\AppTagInterpreter\AppTagInterpreter\obj\Debug\net6.0\AppTagInterpreter.genruntimeconfig.cache
+C:\Users\ivans\Desktop\Amdaris\Amdaris\StringAndDateTime\AppTagInterpreter\AppTagInterpreter\obj\Debug\net6.0\ref\AppTagInterpreter.dll
