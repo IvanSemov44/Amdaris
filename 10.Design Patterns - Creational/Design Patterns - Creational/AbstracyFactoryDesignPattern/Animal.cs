@@ -2,5 +2,6 @@
 {
     public interface Animal
     {
+        string Speak();
     }
 }

@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace AbstracyFactoryDesignPattern
 {
-    internal class Shark
+    public class Shark : Animal
     {
+        public string Speak() => "Cannot Speak";
     }
 }
