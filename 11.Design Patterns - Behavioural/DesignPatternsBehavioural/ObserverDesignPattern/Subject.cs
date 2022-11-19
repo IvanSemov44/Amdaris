@@ -40,8 +40,6 @@ namespace ObserverDesignPattern
                 observer.Update(Availability);
 
             }
-
-            
         }
 
         public void RegisterObserver(IObserver observer)
