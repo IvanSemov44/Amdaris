@@ -1,12 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace InterpreterDesignPattern
 {
-    internal class Context
+    public class Context
     {
+        public Context(DateTime date)
+        {
+            Date = date;
+        }
+
+        public string Expression { get; set; }
+
+        public DateTime Date { get; set; }
     }
 }
